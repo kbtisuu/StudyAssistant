@@ -16,4 +16,4 @@ You can customize the length of your learning session and breaks by modifying th
 
 #Author
 This script was created by kbtisuu.
-#If you have any questions or suggestions, feel free to reach out to me at kebi2393@gmail.com. I hope this script is helpful for you in your learning journey!
+#If you have any questions or suggestions, feel free to reach out to me. I hope this script is helpful for you in your learning journey!
